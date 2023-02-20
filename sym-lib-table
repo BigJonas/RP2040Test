@@ -1,3 +1,7 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/lib/RP2040_minimal.pretty/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/lib/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/lib/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "IRLML6344TRPBF")(type "KiCad")(uri "${KIPRJMOD}/lib/locallib.pretty/IRLML6344TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "DSS4160T-7")(type "Legacy")(uri "${KIPRJMOD}/lib/locallib.pretty/DSS4160T-7.lib")(options "")(descr ""))
 )
